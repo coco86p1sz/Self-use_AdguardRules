@@ -1,5 +1,6 @@
 ！Title: Self-use Adguard Rules 
 ! adguard 自用规则合集
+！version: V1.0
 ||tenekslu.com^
 ||1mczjtx.com^
 ||2cursjb.com^
