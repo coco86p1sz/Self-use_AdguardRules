@@ -7,3 +7,18 @@
 ||xoojqxh.icu^
 ||mekmhvbb.xyz^
 ||xn--jvrp4x1zyfta.net^
+||xydzfldt.xyz^
+||zisnuthz.com^
+||2cursjb.com^
+||dj3.djcnetb.icu^
+||1mczjtx.com^
+||liangbingliang1.cn^
+||2rwonuh.com^
+diyibanzhu44444.com##div.container:nth-child(7) > div.slide-baidu:first-child
+diyibanzhu44444.com##div.container:nth-child(7) > div.slide-baidu:nth-child(5)
+diyibanzhu44444.com##div.container:nth-child(5) > div.slide-baidu:nth-child(4)
+diyibanzhu44444.com###ChapterView > div.slide-baidu:last-child
+javbus.com##div.bcpic2:nth-child(7) > div.ad-box
+javbus.com##div.bcpic2:nth-child(7)
+javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-box.all-top:first-child
+javbus.com##div.bcpic2:nth-child(9)
